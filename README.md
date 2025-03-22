@@ -1,5 +1,17 @@
 # 💫 About Me:
-🤝 I’m looking to collaborate on AI-powered drone technologies, flight control software, sensor integration, and full-stack web development.<br>👐 I’m looking for help with business development, sponsorship opportunities, and expanding my expertise in cloud computing.<br>🌱 I’m currently learning advanced machine learning, embedded systems for UAVs, and modern web development technologies.<br>💬 Ask me about drone technology, AI in aviation, web development, and software project management.<br>⚡ Fun fact: I have experience both in aviation and tech, bridging two worlds with innovation!
+🤝 Let’s Build the Future Together! I’m eager to collaborate on cutting-edge AI-driven drone technologies, next-gen flight control systems, seamless sensor integrations, and full-stack web development that powers innovation.
+
+🛠️ Bringing Ideas to Reality—As the Project Lead at FK Textile, I manage the entire web development process, leading a software team to create seamless, high-performance digital experiences. Additionally, my work in Yılkı Drone Systems involves developing AI-powered UAV solutions for fire detection and suppression, combining software, hardware, and automation.
+
+👐 Seeking Visionaries & Game-Changers—whether it’s business growth, high-impact sponsorships, or mastering cloud computing, I’m all about pushing boundaries and making things happen.
+
+🌱 Always Evolving—Diving deep into advanced machine learning, UAV embedded systems, and modern web technologies to stay ahead of the curve.
+
+💬 Ask Me About drone tech, AI in aviation, software project management, and web development that scales!
+
+⚡ Fun Fact: With a background in both aviation and tech, I merge engineering precision with digital innovation, crafting solutions that take industries to new heights.
+
+
 
 
 ## 🌐 Socials:
