@@ -1,51 +1,8 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Sophomore CS student /Web Developer /Entrepreneur</h3>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cyberpunk README</title>
-    <style>
-        body {
-            background-color: #1a1a1a;
-            color: #fff;
-            font-family: 'Arial', sans-serif;
-            padding: 20px;
-        }
-        h1 {
-            font-size: 3em;
-            text-align: center;
-            color: #ff007f;
-            text-shadow: 0 0 10px rgba(255, 0, 127, 0.7), 0 0 20px rgba(255, 0, 127, 0.7);
-        }
-        .content {
-            text-align: justify;
-            font-size: 1.2em;
-            line-height: 1.5;
-            margin-top: 20px;
-            color: #ddd;
-            letter-spacing: 1px;
-        }
-        .neon-effect {
-            color: #ff007f;
-            font-weight: bold;
-            text-shadow: 0 0 5px rgba(255, 0, 127, 0.7), 0 0 10px rgba(255, 0, 127, 0.5);
-        }
-    </style>
-</head>
-<body>
-    <h1>Cyberpunk README</h1>
-    <div class="content">
-        <p>Welcome to the <span class="neon-effect">Cyberpunk Project</span> repository. This project aims to blend futuristic aesthetics with real-world technology. Whether you're into <span class="neon-effect">neon lights</span>, <span class="neon-effect">cybernetics</span>, or just the overall <span class="neon-effect">punk</span> vibe, this is the place for you.</p>
-        <p>Explore the various <span class="neon-effect">modules</span> and <span class="neon-effect">innovations</span> we’re working on. From cutting-edge AI algorithms to hardware-driven systems, we aim to bring the future to life. All contributions are welcome, and the road ahead is full of bright, <span class="neon-effect">glowing</span> possibilities.</p>
-    </div>
-</body>
-</html>
 
-
-
-- 🚀 I’m currently working on AI-powered UAV solutions for fire detection and suppression — Yılkı Drone Systems🔭 I’m currently🚀 I’m currently working on AI-powered UAV solutions for fire detection and suppression — Yılkı Drone Systems Full-stack web development for an international textile company — FK Tekstil working on [fktekstil.com](fktekstil.com)
+- 🚀 I’m currently working on AI-powered UAV solutions for fire detection and suppression — Yılkı Drone Systems🔭 I’m currently
+- 🚀 I’m currently working on AI-powered UAV solutions for fire detection and suppression — Yılkı Drone Systems Full-stack web development for an international textile company — FK Tekstil working on [fktekstil.com](fktekstil.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mach2furkan?tab=repositories](https://github.com/mach2furkan?tab=repositories)
 
