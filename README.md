@@ -40,18 +40,18 @@
 
 
 
-# 💫 About Me:
-🤝 Let’s Build the Future Together! I’m eager to collaborate on cutting-edge AI-driven drone technologies, next-gen flight control systems, seamless sensor integrations, and full-stack web development that powers innovation.
+🔥 What I Do
+🚁 Revolutionizing Drone Technology
+As the Founder of Yılkı Drone Systems, I engineer AI-powered UAV solutions for fire detection, suppression, and autonomous flight control. By integrating machine learning, sensor fusion, and automation, I’m pushing the boundaries of aerial innovation.
 
-🛠️ Bringing Ideas to Reality—As the Project Lead at FK Textile, I manage the entire web development process, leading a software team to create seamless, high-performance digital experiences. Additionally, my work in Yılkı Drone Systems involves developing AI-powered UAV solutions for fire detection and suppression, combining software, hardware, and automation.
+💻 Full-Stack & Cloud Development
+From scalable web applications to optimized backend architectures, I build high-performance digital experiences. With expertise in React, FastAPI, and cloud computing, I transform ideas into reality.
 
-👐 Seeking Visionaries & Game-Changers—whether it’s business growth, high-impact sponsorships, or mastering cloud computing, I’m all about pushing boundaries and making things happen.
+📈 Project & Risk Management
+Leading teams across software, AI, and hardware domains, I ensure seamless execution of projects, from ideation to deployment. Whether it's startups, sponsorships, or strategic planning, I drive impact with precision.
 
-🌱 Always Evolving—Diving deep into advanced machine learning, UAV embedded systems, and modern web technologies to stay ahead of the curve.
-
-💬 Ask Me About drone tech, AI in aviation, software project management, and web development that scales!
-
-⚡ Fun Fact: With a background in both aviation and tech, I merge engineering precision with digital innovation, crafting solutions that take industries to new heights.
+🚀 Bridging Technology & Business
+With experience in FK Textile and collaborating with 3 companies and 3 restaurants, I merge engineering, software, and business strategy to create scalable solutions, proving that tech isn’t just about code—it’s about transformation.
 
 
 
