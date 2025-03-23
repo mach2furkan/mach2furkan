@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Sophomore CS student /Web Developer /Entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mach2furkan&label=Profile%20views&color=0e75b6&style=flat" alt="mach2furkan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mach2furkan" alt="mach2furkan" /></a> </p>
 
 - 🚀 I’m currently working on AI-powered UAV solutions for fire detection and suppression — Yılkı Drone Systems🔭 I’m currently🚀 I’m currently working on AI-powered UAV solutions for fire detection and suppression — Yılkı Drone Systems Full-stack web development for an international textile company — FK Tekstil working on [fktekstil.com](fktekstil.com)
 
