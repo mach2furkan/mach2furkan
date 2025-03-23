@@ -140,19 +140,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mach2furkan&" alt="Streak Stats" />
 </p>
 
-## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mach2furkan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mach2furkan&show_icons=true&locale=en" alt="Profile Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mach2furkan&" alt="Streak Stats" />
-</p>
 🔥 What I Do
 🚁 Revolutionizing Drone Technology
 As the Founder of Yılkı Drone Systems, I engineer AI-powered UAV solutions for fire detection, suppression, and autonomous flight control. By integrating machine learning, sensor fusion, and automation, I’m pushing the boundaries of aerial innovation.
