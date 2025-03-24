@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
+<h1 align="center">Hi How you doin ? 👋, I'm Furkan</h1>
 <h3 align="center">Sophomore CS student /Web Developer /Entrepreneur</h3>
 
 - 🚀 I’m currently working on AI-powered UAV solutions for fire detection and suppression — Yılkı Drone Systems Full-stack web development for an international textile company — FK Tekstil working on [fktekstil.com](fktekstil.com)
@@ -96,7 +96,7 @@
 ## Badges
 
 
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
