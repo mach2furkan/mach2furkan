@@ -174,3 +174,17 @@ At Yılkı Tech, we’re on a mission to create smarter, safer, and cooler solut
 The future? It’s bright. It’s bold. It’s Yılkı Tech 🌟. We’re just getting started, and we can’t wait for YOU to be a part of our exciting journey! 💼
 
 Let’s build the future together! 🚀🔥
+
+
+💬 Let’s Connect!
+
+🎯 Fun Facts About Me
+🏆 I love competing in tech challenges (winning is just a bonus 😏)
+
+📚 Obsessed with learning new things (because who doesn’t love a challenge?)
+
+🚀 Dreaming big — aiming to make the world a safer, smarter place with tech
+
+🤩 I believe in having fun while building the future!
+
+Let’s code the future together! 🌟
