@@ -165,14 +165,12 @@ With experience in FK Textile and collaborating with 3 companies and 3 restauran
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+Yılkı Tech 🚀 is the place where dreams meet tech! 💥 As the founder, I’ve gathered an amazing team of engineers from all walks of life 🤖💻, working together to tackle some of the coolest challenges in tech! From national to international competitions 🌍🏆, we’re not just participating — we’re here to WIN!
 
-🚀 Animated Link Playground
-🎨 Welcome to the world of animated links! Click around and watch the magic happen.
+With the full support of our university's faculty secretariats and deanships 🎓📚, we've unlocked the power of academic resources to turn ideas into supercharged innovations ⚡. We’re building drones that don’t just fly — they save lives 💪🔥.
 
-🔗 Bouncy Link - Click me, and I'll jump with joy! 🏀
-✨ Glowing Link - Hover over me, and I'll light up your day! 💡
-🌊 Wavy Link - Watch me dance like ocean waves! 🌊
-🌀 Spinning Link - Click me and take a spin! 🔄
-🔥 Flaming Link - I heat up when you hover! 🔥
+At Yılkı Tech, we’re on a mission to create smarter, safer, and cooler solutions 🛠️💡. Whether it's AI, robotics, or fire-fighting drones that are taking flight 🚁🔥, we’re combining our skills to revolutionize tech and make the world a better place 🌱.
 
-Try them all and let the animations mesmerize you! 😎
+The future? It’s bright. It’s bold. It’s Yılkı Tech 🌟. We’re just getting started, and we can’t wait for YOU to be a part of our exciting journey! 💼
+
+Let’s build the future together! 🚀🔥
