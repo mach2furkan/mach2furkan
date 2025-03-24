@@ -164,3 +164,15 @@ With experience in FK Textile and collaborating with 3 companies and 3 restauran
 [![](https://visitcount.itsvg.in/api?id=mach2furkan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+🚀 Animated Link Playground
+🎨 Welcome to the world of animated links! Click around and watch the magic happen.
+
+🔗 Bouncy Link - Click me, and I'll jump with joy! 🏀
+✨ Glowing Link - Hover over me, and I'll light up your day! 💡
+🌊 Wavy Link - Watch me dance like ocean waves! 🌊
+🌀 Spinning Link - Click me and take a spin! 🔄
+🔥 Flaming Link - I heat up when you hover! 🔥
+
+Try them all and let the animations mesmerize you! 😎
