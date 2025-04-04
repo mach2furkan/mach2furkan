@@ -10,6 +10,7 @@
 - 📫 How to reach me **furkanasknn@gmail.com**
 
 - ⚡ Fun fact **With a background in both aviation and tech, I merge engineering precision with digital innovation, crafting solutions that take industries to new heights.**
+-  [https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
