@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h40842R9smYqZi6sc3/giphy.gif" width="50px"> 
+  <img src="https://i.gifer.com/GYny.gif" width="500px"> 
   Hi How you doin ? 👋, I'm Furkan
   <h3 align="center">Sophomore CS student /Web Developer /Entrepreneur</h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h40842R9smYqZi6sc3/giphy.gif" width="500px">
