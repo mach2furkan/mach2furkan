@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h40842R9smYqZi6sc3/giphy.gif" width="50px"> 
   Hi How you doin ? 👋, I'm Furkan
+  <h3 align="center">Sophomore CS student /Web Developer /Entrepreneur</h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h40842R9smYqZi6sc3/giphy.gif" width="50px">
 </h1>
 
@@ -14,8 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="600">
 </div>
-<h1 align="center">Hi How you doin ? 👋, I'm Furkan</h1>
-<h3 align="center">Sophomore CS student /Web Developer /Entrepreneur</h3>
+
 
 - 🚀 I’m currently working on AI-powered UAV solutions for fire detection and suppression — Yılkı Drone Systems Full-stack web development for an international textile company — FK Tekstil working on [fktekstil.com](fktekstil.com)
 
