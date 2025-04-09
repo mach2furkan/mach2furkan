@@ -2,9 +2,7 @@
 <h1 align="center">
 
   Hi How you doin ? 👋, I'm Furkan
-  <h3 align="center">Sophomore CS student /Web Developer /Entrepreneur</h3>
-    <img src="[https://i.gifer.com/GYny.gif](https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif" width="500px"> 
-</h1>
+
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif" width="40"> 
