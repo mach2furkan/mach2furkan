@@ -178,7 +178,7 @@
 
 ---
 
-<p align="center"><i>...ve daha fazlası loading ⏳</i></p>
+<p align="center"><i>...just wait for more skill! ⏳</i></p>
 
 
 🔥 What I Do
