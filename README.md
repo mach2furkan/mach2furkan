@@ -12,7 +12,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="300">
 </div>
  I am currently seeking an internship opportunity to further enhance my skills and gain practical experience in the field. Please note that some of my projects are private and are subject to confidentiality agreements. If you have any questions or would like more information regarding my work or potential collaboration, please feel free to reach out to me. I am open to discussing any inquiries you may have.
-## 🛠️ Languages, Frameworks & Tools I Use
+ 
+ 🛠️ Languages, Frameworks & Tools I Use
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=700&color=38BDF8&vCenter=true&width=600&lines=Tools+that+power+my+code+;Languages+that+shape+my+logic+;Frameworks+that+build+my+vision" alt="Typing SVG" />
