@@ -15,7 +15,7 @@
 </div>
 
 
-- 🚀 I’m currently working on AI-powered UAV solutions for fire detection and suppression — Yılkı Drone Systems Full-stack web development for an international textile company — FK Tekstil working on [fktekstil.com](fktekstil.com)
+- 🚀 I’m currently working  web development for an international textile company — FK Tekstil working on [fktekstil.com](fktekstil.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mach2furkan?tab=repositories](https://github.com/mach2furkan?tab=repositories)
 
