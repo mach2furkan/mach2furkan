@@ -158,23 +158,6 @@
 
 <p align="center"><i>...just wait for more skill! ⏳</i></p>
 
-
-🔥 What I Do
-🚁 Revolutionizing Drone Technology
-As the Founder of Yılkı Drone Systems, I engineer AI-powered UAV solutions for fire detection, suppression, and autonomous flight control. By integrating machine learning, sensor fusion, and automation, I’m pushing the boundaries of aerial innovation.
-
-💻 Full-Stack & Cloud Development
-From scalable web applications to optimized backend architectures, I build high-performance digital experiences. With expertise in React, FastAPI, and cloud computing, I transform ideas into reality.
-
-📈 Project & Risk Management
-Leading teams across software, AI, and hardware domains, I ensure seamless execution of projects, from ideation to deployment. Whether it's startups, sponsorships, or strategic planning, I drive impact with precision.
-
-🚀 Bridging Technology & Business
-With experience in FK Textile and collaborating with 3 companies and 3 restaurants, I merge engineering, software, and business strategy to create scalable solutions, proving that tech isn’t just about code—it’s about transformation.
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkanasknn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:furkanasknn@gmail.com) 
 
