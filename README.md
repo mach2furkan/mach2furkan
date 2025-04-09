@@ -1,8 +1,6 @@
 <h1 align="center">
 
   Hi How you doin ? 👋, I'm Furkan
- I am currently seeking an internship opportunity to further enhance my skills and gain practical experience in the field. Please note that some of my projects are private and are subject to confidentiality agreements. If you have any questions or would like more information regarding my work or potential collaboration, please feel free to reach out to me. I am open to discussing any inquiries you may have.
-
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif" width="40"> 
@@ -13,7 +11,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="300">
 </div>
-
+ I am currently seeking an internship opportunity to further enhance my skills and gain practical experience in the field. Please note that some of my projects are private and are subject to confidentiality agreements. If you have any questions or would like more information regarding my work or potential collaboration, please feel free to reach out to me. I am open to discussing any inquiries you may have.
 ## 🛠️ Languages, Frameworks & Tools I Use
 
 <p align="center">
