@@ -1,6 +1,7 @@
 <h1 align="center">
 
   Hi How you doin ? 👋, I'm Furkan
+ I am currently seeking an internship opportunity to further enhance my skills and gain practical experience in the field. Please note that some of my projects are private and are subject to confidentiality agreements. If you have any questions or would like more information regarding my work or potential collaboration, please feel free to reach out to me. I am open to discussing any inquiries you may have.
 
 
 <h3 align="center">
