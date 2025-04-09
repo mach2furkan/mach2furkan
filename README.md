@@ -14,6 +14,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0b2V6Y3Z4cWJ4bXh0eGJ5Z3B0ZzN6eGJ0dGZ1bGZ6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="300">
 </div>
 
+## 🛠️ Languages, Frameworks & Tools I Use
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=700&color=38BDF8&vCenter=true&width=600&lines=Tools+that+power+my+code+;Languages+that+shape+my+logic+;Frameworks+that+build+my+vision" alt="Typing SVG" />
+</p>
+
 
 - 🚀 I’m currently working  web development for an international textile company — FK Tekstil working on [fktekstil.com](fktekstil.com)
 
