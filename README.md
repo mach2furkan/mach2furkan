@@ -213,17 +213,26 @@ With experience in FK Textile and collaborating with 3 companies and 3 restauran
 ---
 [![](https://visitcount.itsvg.in/api?id=mach2furkan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-Yılkı Tech 🚀 is the place where dreams meet tech! 💥 As the founder, I’ve gathered an amazing team of engineers from all walks of life 🤖💻, working together to tackle some of the coolest challenges in tech! From national to international competitions 🌍🏆, we’re not just participating — we’re here to WIN!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=16F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling!+;Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%93%9A;Keep+Pushing+Code+%F0%9F%92%BB;Let's+Create+the+Future+Together+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Keep Coding" />
+</p>
 
-With the full support of our university's faculty secretariats and deanships 🎓📚, we've unlocked the power of academic resources to turn ideas into supercharged innovations ⚡. We’re building drones that don’t just fly — they save lives 💪🔥.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mach2furkan/mach2furkan/main/assets/coding.gif" width="200px" />
+</p>
 
-At Yılkı Tech, we’re on a mission to create smarter, safer, and cooler solutions 🛠️💡. Whether it's AI, robotics, or fire-fighting drones that are taking flight 🚁🔥, we’re combining our skills to revolutionize tech and make the world a better place 🌱.
+<p align="center">
+  <strong>Want to collaborate, talk tech, or just vibe about code?</strong><br/>
+  <a href="mailto:furkan.askin.dev@gmail.com">📩 Reach out anytime</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.linkedin.com/in/furkanaskin/">🔗 LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://mach2furkan.github.io/">🌐 Personal Website</a>
+</p>
 
-The future? It’s bright. It’s bold. It’s Yılkı Tech 🌟. We’re just getting started, and we can’t wait for YOU to be a part of our exciting journey! 💼
+---
 
-Let’s build the future together! 🚀🔥
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=200&section=footer&text=Happy%20Coding!&fontAlign=center&fontSize=35&fontColor=ffffff" />
+</p>
 
 
 💬 Let’s Connect!
