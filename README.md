@@ -223,10 +223,6 @@ With experience in FK Textile and collaborating with 3 companies and 3 restauran
   <img src="https://raw.githubusercontent.com/mach2furkan/mach2furkan/main/assets/coding.gif" width="200px" />
 </p>
 
-<p align="center">
-  <strong>Want to collaborate, talk tech, or just vibe about code?</strong><br/>
-  <a href="mailto:furkan.askin.dev@gmail.com">📩 Reach out anytime</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.linkedin.com/in/furkanaskin/">🔗 LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://mach2furkan.github.io/">🌐 Personal Website</a>
-</p>
 
 ---
 
