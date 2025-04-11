@@ -112,7 +112,7 @@
 ### 🎨 Frontend Magic
 <p align="center">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="28"/>
-  <img src="https://www.cdnlogo.com/logos/t/34/tailwind-css.svg"/>
+  <img src="https://www.cdnlogo.com/logos/t/34/tailwind-css.svg"height ="28"/>
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height="28"/>
 </p>
 
