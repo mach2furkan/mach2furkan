@@ -19,7 +19,7 @@ I design, analyze and prototype systems that combine <b>RF signal intelligence, 
 I actively research how advanced systems detect, classify, and visualize signals across crowded RF environments.
 
 ### 🔬 Focus Areas
-- 📶 Spectrum monitoring & noise floor analysis (0–6 GHz+)
+- 📶 Spectrum monitoring & noise floor analysis (9KHz – 153 GHz+)
 - 🛰 SDR pipelines (RTL-SDR, HackRF, USRP, AirSpy)
 - 🔍 Modulation recognition & signal classification (ML-assisted)
 - 📡 DoA / AoA & geolocation (TDOA, multilateration concepts)
