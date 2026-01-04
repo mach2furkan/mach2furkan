@@ -21,7 +21,7 @@
 Over the past few years, I’ve developed a strong interest in **RF Signal Intelligence** — how systems detect, classify, and monitor signals across complex environments.
 
 ### 🔬 Focus Areas
-- 📶 Spectrum monitoring (0–6 GHz)
+- 📶 Spectrum monitoring (9KHz– 153 GHz)
 - 🛰 SDR signal capture (RTL-SDR, HackRF, AirSpy, USRP)
 - 🔍 Modulation recognition & signal classification
 - 📡 Direction Finding (AoA/DoA) & geolocation (TDOA / multilateration)
