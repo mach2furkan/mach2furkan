@@ -1,3 +1,7 @@
+<!-- 🔊 RF Spectrum Animation (replace src with your own GIF path/URL) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mach2furkan/mach2furkan/main/assets/spectrum.gif" alt="RF Spectrum Animation" width="600" />
+</p>
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:9333EA&height=180&section=header&text=Hi%20—%20I'm%20Furkan!&fontSize=36&fontColor=ffffff&fontAlignY=35"/>
