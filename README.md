@@ -1,165 +1,110 @@
-
-<img width="1536" height="1024" alt="ChatGPT Image Jan 4, 2026 at 05_31_33 PM" src="https://github.com/user-attachments/assets/9780e7f0-efaf-4bc7-a22a-7931c7f70ef6" />
-
-
-````markdown
-<!-- PERSONAL MILITARY-STYLE BANNER -->
+<!-- RF Spectrum Animation -->
 <p align="center">
-  <img src="assets/banner-military.png" width="100%" alt="Furkan Askin Military Banner"/>
+  <img src="https://i.imgur.com/yhZQ4oH.gif" width="650" alt="RF Spectrum Waterfall Animation"/>
 </p>
 
-<h1 align="center">Furkan Aşkın</h1>
-
+<!-- Radar Animation -->
 <p align="center">
-  <b>RF & C-UAS Systems • SIGINT • Radar & EO/IR • Software Engineering</b><br/>
-  Designing and understanding systems where sensing, RF intelligence and mission-critical software converge.
+  <img src="https://i.imgur.com/6R4Y1m2.gif" width="500" alt="Military Radar Scanning Animation"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8B5CF6&height=160&section=header&text=Furkan%20Aşkın&fontSize=36&fontColor=ffffff&fontAlignY=35"/>
+</p>
 
-## 👋 About Me
+<h3 align="center">🚀 C-UAS Specialist • RF / SIGINT Enthusiast • Jr. Computer Science Student</h3>
 
-I work at the intersection of:
-
-- **RF Signal Intelligence (SIGINT)**
-- **Counter-UAS (drone defense) architectures**
-- **radar & electro-optical/thermal sensor systems**
-- **modern, reliable software engineering**
-
-My mindset:
-
-> **Clear systems → Safer infrastructure → Better awareness**
-
-I enjoy prototyping concepts, researching architectures, and turning complex ideas into
-**usable, understandable and ethical defense-focused solutions**.
+<p align="center">
+I design, analyze and prototype systems that combine <b>RF signal intelligence, spectrum awareness</b> and modern software engineering — especially in the context of <b>Counter-UAS (drone defense)</b>, early-warning architectures, and next-generation situational awareness platforms.
+<br/>
+<b>My goal:</b> build technologies that make critical environments safer and smarter.
+</p>
 
 ---
 
 ## 📡 RF Signal Intelligence (SIGINT)
 
-Understanding how signals behave — and how systems reason about them:
+I actively research how advanced systems detect, classify, and visualize signals across crowded RF environments.
 
-- spectrum monitoring & anomaly detection  
-- SDR pipelines (RTL-SDR, HackRF, AirSpy, USRP)  
-- modulation recognition & feature extraction  
-- AoA / DoA & TDOA localization concepts  
-- RF threat awareness for critical environments  
+### 🔬 Focus Areas
+- 📶 Spectrum monitoring & noise floor analysis (0–6 GHz+)
+- 🛰 SDR pipelines (RTL-SDR, HackRF, USRP, AirSpy)
+- 🔍 Modulation recognition & signal classification (ML-assisted)
+- 📡 DoA / AoA & geolocation (TDOA, multilateration concepts)
+- 🛡 C-UAS sensor fusion (RF + Radar + EO/IR)
+- ⚙ Tooling: **GNU Radio • Python • MATLAB • CubicSDR • SDR#**
 
-> Strictly analysis and education. No interception. No offensive content.
-
----
-
-## 🛡 Counter-UAS (Drone Defense)
-
-Areas I research, model and prototype conceptually:
-
-- RF detection & signal fingerprinting  
-- radar correlation for **low-slow-small** targets  
-- EO/IR visual confirmation chains  
-- operator-centric C2 interfaces  
-- multi-sensor fusion & track-confidence logic  
-
-This is where **hardware intelligence meets disciplined software engineering**.
+> 🧭 All research here is strictly **ethical, legal, and educational** —  
+> signal analysis only, not interception or misuse.
 
 ---
 
-## 👁 EO/IR (Electro-Optical & Thermal)
+## 🛡 Counter-UAS Expertise
 
-- cooled / uncooled thermal imagers  
-- PTZ / gimbal auto-tracking  
-- SWIR & low-light workflows  
-- radar-to-camera cueing pipelines  
+I work on understanding the architecture behind modern **anti-drone systems**, especially:
 
-EO/IR adds what RF cannot: **visual certainty**.
+- 🎯 RF detection & signal fingerprinting  
+- 📡 Radar integration for low-slow-small targets  
+- 👁 EO/IR confirmation workflows  
+- 🔗 C2 software and operator UI design  
+- 🧩 System interoperability and layered defense concepts  
 
----
+> C-UAS is where **RF engineering, software, and defense-grade design meet** —  
+and that intersection fascinates me.
 
-## 📡 Radar Systems
-
-- short-range surveillance radars  
-- drone-oriented tracking logic  
-- clutter suppression & stability handling  
-- track fusion (RF + radar + EO/IR)
-
-Reliable awareness nearly always includes radar.
+If you’re working on RF monitoring, drone defense or sensor fusion — let’s talk.
 
 ---
 
-## 🔗 Sensor Fusion — Concept Diagram
+## 🛠️ Tech Stack
 
-```mermaid
-flowchart LR
-    RF[RF Detector] --> F{Fusion Engine}
-    RAD[Radar] --> F
-    EO[EO/IR Camera] --> F
-    ACO[Acoustic] --> F
-    GNSS[Timing/GNSS] --> F
-
-    F --> TRACK(Track Manager)
-    TRACK --> OPS[Operator Console / C2]
-    TRACK --> ALERT[Threat Scoring]
-````
-
-**One unified picture. Fewer false alarms. Faster decisions.**
-
----
-
-## 💻 Coding & Engineering Skills
-
-### Languages
-
-* **Python** — analysis, automation, backend tooling
-* **TypeScript / JavaScript** — dashboards, APIs, Next.js
-* **C / C++** — systems thinking, performance fundamentals
-* **Go** — services & utilities
-* **Rust** — safety-focused experiments
-
-### Frameworks & Tools
-
-* Django • Flask • FastAPI
-* Next.js • Tailwind
-* GraphQL
-* GNU Radio • MATLAB • SDR tooling
-* Docker • Linux • Git
-
-### Principles I care about
-
-* clean architectures
-* reliability over “flashy” design
-* measurable results
-* explainable systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,tailwind,go,rust,nodejs,aws,graphql,django,flask,c,cpp,html,css,js,figma" />
+</p>
 
 ---
 
 ## 🚀 Projects & Work
 
-* internal dashboards and automation — **FK Tekstil**
-* SDR-based RF experiments and demos
-* defense-adjacent prototypes (under NDA)
-* public work → **[https://github.com/mach2furkan](https://github.com/mach2furkan)**
-
-*(Curious about something specific? Ask — I’ll share what I’m allowed to.)*
+- 🌐 Built internal dashboards & automation tools for **FK Tekstil**
+- 📡 Experimenting with RF classification & SDR workflows
+- 🔒 Several engineering projects remain private due to NDA restrictions
+- 👨‍💻 Public repos: https://github.com/mach2furkan
 
 ---
 
-## 📜 License (Non-Commercial)
-
-This repository is shared **for learning and research only**.
-Commercial use is **not permitted**.
-
-**License:** Creative Commons **CC-BY-NC 4.0**
-
----
-
-## 📬 Contact
-
-📧 **[furkanasknn@gmail.com](mailto:furkanasknn@gmail.com)**
-🔗 **linkedin.com/in/furkanasknn**
-
----
+## 🧰 Tools I Use
 
 <p align="center">
-  <i>Mission-driven software • RF awareness • Smarter defense systems</i>
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GNU%20Radio-111?style=for-the-badge&logo=gnuradio&logoColor=orange">
 </p>
-```
 
+---
+
+## 🏆 Stats & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mach2furkan&theme=radical&no-frame=true&column=4"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=mach2furkan&theme=dracula" height="145"/>
+</p>
+
+---
+
+## ✉️ Contact
+
+📫 **Email:** furkanasknn@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/furkanasknn  
+
+> Open to internships, RF research collaborations, and C-UAS discussions.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&color=2AF7FF&center=true&vCenter=true&width=700&lines=Building+next-gen+defense+software...;Exploring+RF+intelligence...;Turning+ideas+into+systems."/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8B5CF6&height=140&section=footer"/>
+</p>
