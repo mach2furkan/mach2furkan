@@ -1,14 +1,6 @@
-<!-- RF Spectrum Animation -->
-<p align="center">
-  <img src="https://i.imgur.com/yhZQ4oH.gif" width="650" alt="RF Spectrum Waterfall Animation"/>
-</p>
 
-<!-- Radar Animation -->
-<p align="center">
-  <img src="https://i.imgur.com/6R4Y1m2.gif" width="500" alt="Military Radar Scanning Animation"/>
-</p>
+<p align="center"><img width="1536" height="1024" alt="ChatGPT Image Jan 4, 2026 at 05_31_33 PM" src="https://github.com/user-attachments/assets/c4692b2d-be1b-426f-852d-7145fc7c7ee3" />
 
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8B5CF6&height=160&section=header&text=Furkan%20Aşkın&fontSize=36&fontColor=ffffff&fontAlignY=35"/>
 </p>
 
