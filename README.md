@@ -144,10 +144,6 @@ I work on understanding the architecture behind modern **anti-drone systems**:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mach2furkan&bg_color=0d1117&color=00F5FF&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&hide_border=true&custom_title=RF%20Activity%20%E2%80%A2%20Contribution%20Spectrum" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%24+exit+%E2%80%94+session+closed.+Stay+on+frequency.+%F0%9F%93%A1" />
 </p>
 
