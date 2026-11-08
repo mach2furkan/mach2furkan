@@ -23,7 +23,7 @@ I design, analyze and prototype systems that combine **RF signal intelligence**,
 
 > 🎯 **Goal:** build technologies that make critical environments safer and smarter.
 
-<img src="assets/spectrum.svg" width="100%" alt="Animated spectrum analyzer and waterfall, 2.4 GHz ISM band"/>
+<img src="assets/spectrum-live.svg" width="100%" alt="Animated spectrum analyzer and waterfall, 2.4 GHz ISM band"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
