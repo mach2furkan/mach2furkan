@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mach2furkan&label=SIGNAL+HITS&color=00ff9c&style=for-the-badge&labelColor=04080f)
 ![Followers](https://img.shields.io/github/followers/mach2furkan?style=for-the-badge&logo=github&color=00d4ff&labelColor=04080f)
-![Repos](https://img.shields.io/badge/REPOS-25%2B-ff3d71?style=for-the-badge&labelColor=04080f)
+![Repos](https://img.shields.io/badge/REPOS-130%2B-ff3d71?style=for-the-badge&labelColor=04080f)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=04080f)
 
 </div>
@@ -176,8 +176,6 @@ Denizcilik güvenlik ve izleme platformu.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mach2furkan&layout=compact&theme=radical&hide_border=true&bg_color=04080f&title_color=00ff9c&text_color=c9d1d9" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mach2furkan&theme=radical&hide_border=true&background=04080f&ring=00ff9c&fire=ff3d71&currStreakLabel=00ff9c" alt="Streak"/>
-
-<img src="https://raw.githubusercontent.com/mach2furkan/mach2furkan/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 
