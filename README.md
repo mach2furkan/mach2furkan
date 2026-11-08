@@ -1,150 +1,198 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:3B82F6,100:8B5CF6&height=200&section=header&text=Furkan%20A%C5%9Fk%C4%B1n&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=C-UAS%20%E2%80%A2%20RF%20%2F%20SIGINT%20%E2%80%A2%20Software&descAlignY=58&descSize=18" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="1536" height="1024" alt="Furkan Aşkın banner" src="https://github.com/user-attachments/assets/c4692b2d-be1b-426f-852d-7145fc7c7ee3" />
-</p>
+<b>🇬🇧 English</b> · <a href="README.tr.md">🇹🇷 Türkçe</a>
 
-<p align="center">
-  <a href="https://github.com/mach2furkan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%F0%9F%9A%80+C-UAS+Specialist;%F0%9F%93%A1+RF+%2F+SIGINT+Enthusiast;%F0%9F%9B%B0+SDR+%E2%80%A2+Spectrum+%E2%80%A2+Signal+Classification;%F0%9F%9B%A1+Building+safer+%26+smarter+skies;%F0%9F%8E%93+Jr.+Computer+Science+Student" alt="Typing SVG" />
-  </a>
-</p>
+<img src="assets/hero.svg" alt="FURKAN — RF SIGINT · Counter-UAS" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mach2furkan&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/mach2furkan?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/STATUS-SCANNING%20THE%20SPECTRUM-3fb950?style=for-the-badge&labelColor=0d1117" />
-</p>
+<a href="https://github.com/mach2furkan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=760&lines=Designing+systems+that+see+the+invisible;Spectrum+awareness+%7C+Counter-UAS+%7C+SDR;RF+%2B+Radar+%2B+EO%2FIR+sensor+fusion;Turning+noise+into+situational+awareness" alt="Typing SVG"/></a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-## `>_` Live Console
+![Profile Views](https://komarev.com/ghpvc/?username=mach2furkan&label=SIGNAL+HITS&color=00ff9c&style=for-the-badge&labelColor=04080f)
+![Followers](https://img.shields.io/github/followers/mach2furkan?style=for-the-badge&logo=github&color=00d4ff&labelColor=04080f)
+![Repos](https://img.shields.io/badge/REPOS-25%2B-ff3d71?style=for-the-badge&labelColor=04080f)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=04080f)
 
-<p align="center">
-  <img src="./assets/terminal.svg" alt="Animated SIGINT console: SDR init, band scan, UAS detection, classification and sensor fusion" width="100%"/>
-</p>
+</div>
 
-<p align="center">
-I design, analyze and prototype systems that combine <b>RF signal intelligence, spectrum awareness</b> and modern software engineering — especially in the context of <b>Counter-UAS (drone defense)</b>, early-warning architectures, and next-generation situational awareness platforms.
-<br/><br/>
-<b>🎯 My goal:</b> build technologies that make critical environments safer and smarter.
-</p>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+## `>_ Live Console`
 
-## 🛰 Sensor Feed
+I design, analyze and prototype systems that combine **RF signal intelligence**, **spectrum awareness** and **modern software engineering** — especially in the context of **Counter-UAS (drone defense)**, early-warning architectures and next-generation situational awareness platforms.
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="./assets/radar.svg" alt="Animated C-UAS radar sweep" width="100%"/></td>
-    <td align="center"><img src="./assets/spectrum.svg" alt="Animated spectrum analyzer and waterfall" width="100%"/></td>
-  </tr>
-  <tr>
-    <td align="center"><sub><b>PPI DISPLAY</b> · RF + Radar track fusion</sub></td>
-    <td align="center"><sub><b>SPECTRUM + WATERFALL</b> · 2.4 GHz ISM band</sub></td>
-  </tr>
-</table>
+> 🎯 **Goal:** build technologies that make critical environments safer and smarter.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="assets/spectrum.svg" width="100%" alt="Animated spectrum analyzer and waterfall, 2.4 GHz ISM band"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📡 RF Signal Intelligence (SIGINT)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=3FB950&center=true&vCenter=true&width=700&lines=%24+detect+%E2%86%92+classify+%E2%86%92+locate+%E2%86%92+visualize;Crowded+RF+environments%2C+clear+pictures." />
-</p>
+I research how advanced systems **detect, classify and visualize** signals across crowded RF environments.
 
-I actively research how advanced systems detect, classify, and visualize signals across crowded RF environments.
-
-<details open>
-<summary><b><code>$ cat focus_areas.txt</code></b> &nbsp;👈 click to toggle</summary>
+<details>
+<summary><code>$ cat focus_areas.txt</code> &nbsp;👈 click to toggle</summary>
 <br/>
 
-| | Area | Details |
-|:-:|---|---|
-| 📶 | **Spectrum monitoring** | Noise floor analysis (9 kHz – 153 GHz+) |
-| 🛰 | **SDR pipelines** | RTL-SDR · HackRF · USRP · AirSpy |
-| 🔍 | **Signal classification** | Modulation recognition, ML-assisted |
-| 📡 | **DoA / AoA & geolocation** | TDOA, multilateration concepts |
-| 🛡 | **C-UAS sensor fusion** | RF + Radar + EO/IR |
-| ⚙ | **Tooling** | GNU Radio · Python · MATLAB · CubicSDR · SDR# |
+| Area | Details |
+|---|---|
+| 📶 **Spectrum monitoring** | Noise floor analysis (9 kHz – 153 GHz+) |
+| 🛰 **SDR pipelines** | RTL-SDR · HackRF · USRP · AirSpy |
+| 🔍 **Signal classification** | Modulation recognition, ML-assisted |
+| 📡 **DoA / AoA & geolocation** | TDOA, multilateration concepts |
+| 🛡 **C-UAS sensor fusion** | RF + Radar + EO/IR |
+| ⚙ **Tooling** | GNU Radio · Python · MATLAB · CubicSDR · SDR# |
 
 </details>
 
 <details>
-<summary><b><code>$ ./pipeline --explain</code></b> &nbsp;🔽 click to run</summary>
+<summary><code>$ ./pipeline --explain</code> &nbsp;🔽 click to run</summary>
 <br/>
 
 ```mermaid
 flowchart LR
-    A[📡 Antenna / SDR] --> B[⚡ IQ Capture]
-    B --> C[📊 FFT & Waterfall]
-    C --> D[🧠 ML Classifier]
-    D --> E[📍 DoA / TDOA]
-    E --> F[🛡 Sensor Fusion<br/>RF + Radar + EO/IR]
-    F --> G[🖥 C2 Operator UI]
-    style A fill:#0d1117,stroke:#00F5FF,color:#fff
-    style D fill:#0d1117,stroke:#8B5CF6,color:#fff
-    style F fill:#0d1117,stroke:#3fb950,color:#fff
-    style G fill:#0d1117,stroke:#ff7b72,color:#fff
+    A[📡 Antenna] --> B[SDR Front-end]
+    B --> C[DSP / FFT]
+    C --> D[Feature Extraction]
+    D --> E[ML Classifier]
+    E --> F[Track Fusion]
+    F --> G[🖥 Operator UI]
 ```
 
 </details>
 
 > [!NOTE]
-> 🧭 All research here is strictly **ethical, legal, and educational** — signal analysis only, not interception or misuse.
+> 🧭 All research here is strictly **ethical, legal and educational** — signal analysis only, no interception or misuse.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛡 Counter-UAS Expertise
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=700&color=FF7B72&center=true&vCenter=true&width=700&lines=DETECT+%E2%86%92+TRACK+%E2%86%92+IDENTIFY+%E2%86%92+DECIDE;Layered+defense+for+low-slow-small+targets" />
-</p>
+I work on understanding the architecture behind modern anti-drone systems — layered, redundant, operator-centric.
 
-I work on understanding the architecture behind modern **anti-drone systems**:
+<img src="assets/layers.svg" width="100%" alt="Five C-UAS layers: RF detection, radar, EO/IR, C2 software, interoperability"/>
 
-<details open>
-<summary><b><code>$ c-uas --layers</code></b></summary>
-<br/>
+C-UAS is where **RF engineering, software and defense-grade design** meet — and that intersection fascinates me.
 
-```diff
-+ [LAYER 1]  🎯 RF detection & signal fingerprinting
-+ [LAYER 2]  📡 Radar integration for low-slow-small targets
-+ [LAYER 3]  👁  EO/IR confirmation workflows
-+ [LAYER 4]  🔗 C2 software and operator UI design
-+ [LAYER 5]  🧩 System interoperability & layered defense concepts
-! STATUS     all layers nominal — airspace monitored
-```
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-</details>
+## 🚀 Featured Projects
 
-> C-UAS is where **RF engineering, software, and defense-grade design meet** — and that intersection fascinates me.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center"><b>📬 If you're working on RF monitoring, drone defense or sensor fusion — let's talk.</b></p>
+### 📻 [CUAS_RF_CONSOLE](https://github.com/mach2furkan/CUAS_RF_CONSOLE)
+![Python](https://img.shields.io/badge/Python-00ff9c?style=flat-square&logo=python&logoColor=04080f&labelColor=04080f)
+RF-based Counter-UAS operator console.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</td>
+<td width="50%" valign="top">
+
+### 📈 [rf-spektrum-analyzer](https://github.com/mach2furkan/rf-spektrum-analyzer)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd166?style=flat-square&logo=javascript&logoColor=04080f&labelColor=04080f)
+Browser-based real-time spectrum analyzer.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰 [embeddedisuspringradar](https://github.com/mach2furkan/embeddedisuspringradar)
+![Python](https://img.shields.io/badge/Python-00ff9c?style=flat-square&logo=python&logoColor=04080f&labelColor=04080f)
+Embedded radar prototype.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡 [AEGIS-OS](https://github.com/mach2furkan/AEGIS-OS)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffd166?style=flat-square&logo=javascript&logoColor=04080f&labelColor=04080f)
+Defense-themed situational awareness interface.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [missile-intercept](https://github.com/mach2furkan/missile-intercept)
+![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=04080f&labelColor=04080f)
+Interception simulation written in Go.
+
+</td>
+<td width="50%" valign="top">
+
+### 👁 [OpticLockPro_Project](https://github.com/mach2furkan/OpticLockPro_Project)
+![Python](https://img.shields.io/badge/Python-00ff9c?style=flat-square&logo=python&logoColor=04080f&labelColor=04080f)
+Optical tracking and target lock.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈ [uavlandingsimhlator](https://github.com/mach2furkan/uavlandingsimhlator)
+![Python](https://img.shields.io/badge/Python-00ff9c?style=flat-square&logo=python&logoColor=04080f&labelColor=04080f)
+UAV landing simulator.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 [marinesecurity](https://github.com/mach2furkan/marinesecurity)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=04080f)
+Maritime security and monitoring platform.
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,tailwind,go,rust,nodejs&perline=7" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,graphql,django,flask,c,cpp&perline=6" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,matlab,linux&perline=6" />
-</p>
+<img src="assets/skills.svg" width="100%" alt="Animated skill bars"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<div align="center">
 
-## 📊 Signal Strength
+![Python](https://img.shields.io/badge/Python-04080f?style=for-the-badge&logo=python&logoColor=00ff9c)
+![MATLAB](https://img.shields.io/badge/MATLAB-04080f?style=for-the-badge&logo=mathworks&logoColor=00d4ff)
+![GNU Radio](https://img.shields.io/badge/GNU_Radio-04080f?style=for-the-badge&logo=gnuradio&logoColor=00ff9c)
+![Go](https://img.shields.io/badge/Go-04080f?style=for-the-badge&logo=go&logoColor=00add8)
+![JavaScript](https://img.shields.io/badge/JavaScript-04080f?style=for-the-badge&logo=javascript&logoColor=ffd166)
+![TypeScript](https://img.shields.io/badge/TypeScript-04080f?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Java](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=openjdk&logoColor=ff3d71)
+![Linux](https://img.shields.io/badge/Linux-04080f?style=for-the-badge&logo=linux&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-04080f?style=for-the-badge&logo=opencv&logoColor=00ff9c)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mach2furkan&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mach2furkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" width="40%"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%24+exit+%E2%80%94+session+closed.+Stay+on+frequency.+%F0%9F%93%A1" />
-</p>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:00F5FF&height=120&section=footer&animation=twinkling" width="100%"/>
+## 📊 GitHub Telemetry
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mach2furkan&show_icons=true&theme=radical&hide_border=true&bg_color=04080f&title_color=00ff9c&icon_color=00d4ff&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mach2furkan&layout=compact&theme=radical&hide_border=true&bg_color=04080f&title_color=00ff9c&text_color=c9d1d9" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mach2furkan&theme=radical&hide_border=true&background=04080f&ring=00ff9c&fire=ff3d71&currStreakLabel=00ff9c" alt="Streak"/>
+
+<img src="https://raw.githubusercontent.com/mach2furkan/mach2furkan/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📬 Let's Talk
+
+If you're working on **RF monitoring, drone defense or sensor fusion** — let's connect.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mach2furkan-04080f?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/mach2furkan)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=ALL%20LAYERS%20NOMINAL&fontSize=26&fontColor=00ff9c&animation=twinkling&fontAlignY=70" width="100%" alt=""/>
+
+</div>
